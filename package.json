@@ -1,0 +1,1 @@
+{"name":"upstudio-app","private":true,"version":"1.0.0","scripts":{"cap:sync":"npx cap sync","android":"npx cap open android","ios":"npx cap open ios"},"dependencies":{"@capacitor/core":"latest","@capacitor/haptics":"latest","@capacitor/share":"latest"},"devDependencies":{"@capacitor/cli":"latest","@capacitor/android":"latest","@capacitor/ios":"latest"}}
